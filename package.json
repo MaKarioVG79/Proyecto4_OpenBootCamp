@@ -1,0 +1,17 @@
+{
+  "name": "proyecto4_openbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nombre",
+    "apellido",
+    "uppercase"
+  ],
+  "author": "MaKarioVG",
+  "license": "ISC"
+}
